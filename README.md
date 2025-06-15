@@ -29,4 +29,4 @@ The project was completed in a two-member team. Responsibilities were divided be
 📄 Full Report
 
 The full technical report, including token patterns, edge case handling, and line-wise accuracy validation, is attached in the repository.
-For more info, check the full report: report.pdf
+📄 For more details, check the [Full Report](./report.pdf)
